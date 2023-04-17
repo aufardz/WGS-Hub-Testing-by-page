@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Career</name>
+   <tag></tag>
+   <elementGuidId>25fc33f6-d539-4691-aaab-c4dac9623ceb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='primary-menu']/ul/li[8]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sfHover > a > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98ddb795-a7cb-4e64-b282-8552f601e8f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Career</value>
+      <webElementGuid>6070ddd6-a22a-4f00-a49e-f83c4826c01e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;sf-js-enabled&quot;]/li[@class=&quot;sfHover&quot;]/a[1]/div[1]</value>
+      <webElementGuid>bb5f18d5-7594-4d54-bed6-3ac58ef4677c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='primary-menu']/ul/li[8]/a/div</value>
+      <webElementGuid>9d51d3ac-5920-44cf-9410-b0f42cbc9134</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Publications'])[1]/following::div[1]</value>
+      <webElementGuid>2291834f-0f11-4adb-a8d2-0c257b2bf6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsroom'])[1]/following::div[2]</value>
+      <webElementGuid>5944c5e9-a753-4b69-a36a-9378944077f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/preceding::div[1]</value>
+      <webElementGuid>5a077ac4-179a-4c52-9d52-4752cd4af1bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Startup Application'])[1]/preceding::div[2]</value>
+      <webElementGuid>92a96a58-33ed-4a3a-9c48-cbd7cea7dbf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Career']/parent::*</value>
+      <webElementGuid>299ab047-9bbf-486a-82fc-4d98189b15b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/a/div</value>
+      <webElementGuid>09b7de40-ed4b-450b-8556-8e0182d96ae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Career' or . = 'Career')]</value>
+      <webElementGuid>61d75db3-1f64-454a-8ec9-f50071dac835</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

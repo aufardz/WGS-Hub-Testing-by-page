@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Publications</name>
+   <tag></tag>
+   <elementGuidId>d90e5474-4f3d-4dce-b11e-1b63f1ceabab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='primary-menu']/ul/li[7]/ul/li[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-menu.sfHover > ul > li.sfHover > a > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>685c3937-640b-431e-8989-302ab2cb1ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Publications</value>
+      <webElementGuid>022c4cdf-896c-4197-a316-55350b9c012a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;sf-js-enabled&quot;]/li[@class=&quot;sub-menu sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]/div[1]</value>
+      <webElementGuid>7618742c-73e4-4178-bc4d-a2c040d1d97f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='primary-menu']/ul/li[7]/ul/li[2]/a/div</value>
+      <webElementGuid>084bdd93-7e2a-43ee-a961-fba03ddac3e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Newsroom'])[1]/following::div[1]</value>
+      <webElementGuid>6791ac3e-6c6f-4e6d-9abd-0826ff3a25ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Media Room'])[1]/following::div[2]</value>
+      <webElementGuid>3753b4bd-0c53-4a6e-829e-b94b6ee817da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Career'])[1]/preceding::div[1]</value>
+      <webElementGuid>f2117a19-3ec5-4f93-b4ef-84d6f24299ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/preceding::div[2]</value>
+      <webElementGuid>1e9ccd53-26e5-4730-a125-1115bc91babd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Publications']/parent::*</value>
+      <webElementGuid>cd2aaba6-2a15-4b12-aef7-e9760fce7687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/ul/li[2]/a/div</value>
+      <webElementGuid>4fc4f3f7-f008-49a6-aeca-8af6144b9684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Publications' or . = 'Publications')]</value>
+      <webElementGuid>d65bec24-84a4-4f68-a737-80b096312d54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

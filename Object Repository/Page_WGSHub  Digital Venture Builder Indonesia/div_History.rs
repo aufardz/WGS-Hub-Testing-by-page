@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_History</name>
+   <tag></tag>
+   <elementGuidId>74e112e5-50d7-4b4a-b514-f0e99f367369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='primary-menu']/ul/li[2]/ul/li[3]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-menu.sfHover > ul > li.sfHover > a > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c35ed344-6ed3-4f3c-9807-daeeadc064f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>History</value>
+      <webElementGuid>346de2eb-e01f-4e38-8feb-32521a546b31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;sf-js-enabled&quot;]/li[@class=&quot;sub-menu sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]/div[1]</value>
+      <webElementGuid>acd47312-354c-4f04-8a68-bc547aa0a56e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='primary-menu']/ul/li[2]/ul/li[3]/a/div</value>
+      <webElementGuid>9408173b-3ee4-4539-a4f4-e6ecca8119f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Core Values'])[1]/following::div[1]</value>
+      <webElementGuid>0d3fbfad-b82a-43c2-961b-9be9e76190ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vision Mission'])[1]/following::div[2]</value>
+      <webElementGuid>13334093-dd4c-4717-ad04-e8d108472c44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Structure'])[1]/preceding::div[1]</value>
+      <webElementGuid>92f89b4b-0fca-423e-b7b8-6eb365f3db22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subsidiaries'])[1]/preceding::div[2]</value>
+      <webElementGuid>e6e2cb39-93ee-4411-a9cc-4237b37d0113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='History']/parent::*</value>
+      <webElementGuid>ae95f58c-1860-400d-ade5-ae959f6ff321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/a/div</value>
+      <webElementGuid>7c4327b8-ff26-405b-85d6-c2531df63274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'History' or . = 'History')]</value>
+      <webElementGuid>b89a74be-fcaa-4fb6-a341-6c1bdd27364a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

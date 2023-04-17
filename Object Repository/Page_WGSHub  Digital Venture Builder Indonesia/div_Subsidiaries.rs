@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Subsidiaries</name>
+   <tag></tag>
+   <elementGuidId>688dd01f-feb1-4964-9b60-db58f6767741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='primary-menu']/ul/li[2]/ul/li[5]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sub-menu.sfHover > ul > li.sfHover > a > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>46e63e7d-b60d-4029-9a33-aa6cf55a9039</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Subsidiaries</value>
+      <webElementGuid>dfca1510-adc4-4357-bdc6-39b80654a94e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary-menu&quot;)/ul[@class=&quot;sf-js-enabled&quot;]/li[@class=&quot;sub-menu sfHover&quot;]/ul[1]/li[@class=&quot;sfHover&quot;]/a[1]/div[1]</value>
+      <webElementGuid>1c034927-67e9-4ecb-8033-225cd0f5d311</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='primary-menu']/ul/li[2]/ul/li[5]/a/div</value>
+      <webElementGuid>e19e4089-c2ea-438c-9b14-1530da820b53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Structure'])[1]/following::div[1]</value>
+      <webElementGuid>be655c8e-bde6-4bed-8cf0-767ba8798b01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='History'])[1]/following::div[2]</value>
+      <webElementGuid>74ec249f-a29d-4890-97ae-205c28237a9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ecosystem'])[1]/preceding::div[1]</value>
+      <webElementGuid>0cd0987f-1d09-42b3-9abb-f321b89684f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Governance'])[1]/preceding::div[2]</value>
+      <webElementGuid>3870f688-fc7c-46e4-adbf-8447c25cc722</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Subsidiaries']/parent::*</value>
+      <webElementGuid>cfbe00cc-fd1b-4b32-b00d-6508f43851e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[5]/a/div</value>
+      <webElementGuid>8dfd26cf-b4b7-4957-993c-21099c9a6faa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Subsidiaries' or . = 'Subsidiaries')]</value>
+      <webElementGuid>ecf6e4dc-7247-4fc6-a050-f9b296cc5c06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
